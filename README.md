@@ -52,20 +52,13 @@ A comprehensive platform built with **Angular, Node.js, AWS**
 A custom automation engine designed to reduce manual QA efforts by 40%  
 - Built with **Node.js + React**  
 - Drag-and-drop workflow designer  
-- Modular rule engine  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarishmaSharma&theme=default" />
-</p>
-
+- Modular rule engine
+  
 ---
 
 ## 🌐 Connect with Me  
 - **LinkedIn:** [Karishma Sharma](https://www.linkedin.com/in/karishma-sharma-1b0616a0)  
-- **Email:** _you can add your preferred email here_
+- **Email:**karishma497@gmail.com
 
 ---
 
